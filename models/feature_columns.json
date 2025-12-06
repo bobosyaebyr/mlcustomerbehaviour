@@ -1,0 +1,12 @@
+[
+  "age",
+  "income",
+  "tenure_months",
+  "transactions_last_30d",
+  "amount_last_30d",
+  "days_since_last_purchase",
+  "is_active_app_user",
+  "support_tickets_last_90d",
+  "discount_rate_mean",
+  "segment_code"
+]
